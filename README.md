@@ -1,2 +1,18 @@
-# Network-infrastructure-and-security
-Professional  practical experience in network security, Cisco network administration, secure network design, VPN, firewall security, monitoring, and security hardening.
+# Network Monitoring
+
+## Topics
+
+- SNMP
+- Syslog
+- Interface monitoring
+- Device availability
+- CPU/memory monitoring
+- Alerting
+- Network visibility
+- Capacity monitoring
+
+Possible lab platforms:
+
+- LibreNMS
+- Nagios
+- Cacti
